@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(208, 204, 236);
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+h2{
+    text-decoration: solid;
+    text-align: center
+}
+   
+
+table, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse ;
+
+}
+table{
+    width: 80%;
+    height: 40;
+    text-align: center;
+    background-color: darkgrey;
+}
+tr:hover{
+    background-color: rgb(140, 209, 180);
+
+}
+th{
+    background-color: #08f563;
+    font-size: 20px;
+    margin: 4px 2px;
+    text-decoration: wavy;
+}
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-button {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .my-button:hover {
+    background-color: #4fcc55;
+  }
+  .my-buttond {
+    background-color:#ffffff;
+    border: none;
+    color: rgb(2, 2, 2);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .my-buttond:hover {
+    background-color: #df5858;
+  }
+  
+ 
+  
